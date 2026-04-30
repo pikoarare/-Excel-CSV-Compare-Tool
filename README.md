@@ -3,9 +3,9 @@
 
 - Added rows - Removed rows - Changed values  ExcelやCSVファイルを比較し、差分（追加・削除・変更）を抽出できるツールです。
 
-<img width="590" height="581" alt="Excel_CSV_Compare1" src="https://github.com/user-attachments/assets/5b78351d-fcf0-4eab-aa5b-fea01021178c" />
+<img width="600" height="600" alt="Excel_CSV_Compare1_square" src="https://github.com/user-attachments/assets/dae683d5-3173-4e78-ac09-56b6cbd72a76" />
 <img width="626" height="450" alt="Excel_CSV_Compare4" src="https://github.com/user-attachments/assets/32b0181e-6114-4218-a246-6ecbe8d6f90e" />
-<img width="592" height="594" alt="Excel_CSV_Compare2" src="https://github.com/user-attachments/assets/095678b3-5d4f-40ab-8c46-0cc9dd58db86" />
+<img width="595" height="592" alt="Excel_CSV_Compare2" src="https://github.com/user-attachments/assets/26a6a0e7-6ab7-4d59-819d-d86d12be60be" />
 <img width="555" height="502" alt="Excel_CSV_Compare3" src="https://github.com/user-attachments/assets/b3bebb83-1e19-4f3d-be1b-9e512643f8d1" />
 ## Features
 
